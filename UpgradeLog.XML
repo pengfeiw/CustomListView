@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ListViewEmbeddedControls">
+</Property><Property Name="解决方案文件" Value="D:\program\ListViewEmbeddedControls\ListViewEmbeddedControls.sln">
+</Property><Property Name="Date" Value="2019年4月25日">
+</Property><Property Name="Time" Value="15:38">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ListViewEmbeddedControls.sln" Description="文件已成功备份为 D:\program\ListViewEmbeddedControls\Backup\ListViewEmbeddedControls.sln">
+</Event><Event ErrorLevel="0" Project="ListViewEmbeddedControls" Source="ListViewEmbeddedControls.csproj" Description="项目文件已成功备份为 D:\program\ListViewEmbeddedControls\Backup\ListViewEmbeddedControls.csproj">
+</Event><Event ErrorLevel="0" Project="ListViewEmbeddedControls" Source="ListViewEmbeddedControls.csproj.user" Description="项目用户文件成功备份为 D:\program\ListViewEmbeddedControls\Backup\ListViewEmbeddedControls.csproj.user">
+</Event><Event ErrorLevel="0" Project="ListViewEmbeddedControls" Source="AssemblyInfo.cs" Description="文件已成功备份为 D:\program\ListViewEmbeddedControls\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ListViewEmbeddedControls" Source="Form1.cs" Description="文件已成功备份为 D:\program\ListViewEmbeddedControls\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="ListViewEmbeddedControls" Source="ListViewEx.cs" Description="文件已成功备份为 D:\program\ListViewEmbeddedControls\Backup\ListViewEx.cs">
+</Event><Event ErrorLevel="0" Project="ListViewEmbeddedControls" Source="ReadOnlyRichTextBox.cs" Description="文件已成功备份为 D:\program\ListViewEmbeddedControls\Backup\ReadOnlyRichTextBox.cs">
+</Event><Event ErrorLevel="0" Project="ListViewEmbeddedControls" Source="App.ico" Description="文件已成功备份为 D:\program\ListViewEmbeddedControls\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="ListViewEmbeddedControls" Source="Form1.resx" Description="文件已成功备份为 D:\program\ListViewEmbeddedControls\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="ListViewEmbeddedControls" Source="ListViewEmbeddedControls.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="ListViewEmbeddedControls" Source="ListViewEmbeddedControls.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ListViewEmbeddedControls.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="ListViewEmbeddedControls.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ListViewEmbeddedControls" Source="ListViewEmbeddedControls.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>
